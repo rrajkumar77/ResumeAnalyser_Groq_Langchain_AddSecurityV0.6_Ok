@@ -1,0 +1,34 @@
+streamlit
+pandas
+python-dotenv
+pymupdf
+python-docx
+langchain-text-splitters
+langchain-community
+langchain-groq
+langchain-core
+fastembed
+chromadb
+
+
+# UI and Environment
+streamlit
+python-dotenv
+pandas
+
+# Document Parsing
+pymupdf
+python-docx
+
+# AI & Vector Database
+langchain-text-splitters
+langchain-community
+langchain-groq
+langchain-core
+fastembed
+chromadb
+
+# Utilities
+numpy
+
+openpyxl

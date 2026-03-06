@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+node_modules/
+.env
+*.pyc
+uv.lock
+.env
